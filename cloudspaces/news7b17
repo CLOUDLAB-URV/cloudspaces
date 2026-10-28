@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">FP7 CloudSpaces Project - News</title>
+	<subtitle type="text">Open Service Platform for the Next Generation of Personal Clouds</subtitle>
+	<link rel="alternate" type="text/html" href="http://127.0.0.1"/>
+	<id>http://127.0.0.1/cloudspaces/news</id>
+	<updated>2026-10-27T10:08:41+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://127.0.0.1/cloudspaces/news?format=feed&amp;type=atom"/>
+	<entry>
+		<title>CloudSpaces obtains the OCEAN Open Cloud distinction</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/95-cloudspaces-obtains-the-ocean-open-cloud-distinction"/>
+		<published>2014-10-28T15:16:00+00:00</published>
+		<updated>2014-10-28T15:16:00+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/95-cloudspaces-obtains-the-ocean-open-cloud-distinction</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are glad to announce that the CloudSpaces project &lt;span style=&quot;line-height: 1.3em;&quot;&gt;has been evaluated by the &lt;a href=&quot;http://www.ocean-project.eu/&quot; target=&quot;_blank&quot;&gt;OCEAN project team&lt;/a&gt; and received the Quality Checked by OCEAN label.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;The OCEAN Open Cloud labels recognize innovative assets, new concepts, architecture documentation and/or re-usable open source cloud components described in the &lt;a href=&quot;http://www.ocdirectory.org/&quot; target=&quot;_blank&quot;&gt;Open Cloud Directory&lt;/a&gt; (OCD). You can check the CloudSpaces project as described in the Open Cloud Directory: &lt;a href=&quot;http://www.ocdirectory.org/organization/about/cloudspaces&quot; target=&quot;_blank&quot;&gt;http://www.ocdirectory.org/organization/about/cloudspaces&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Only 20 over 74 open cloud projects in the OCD received an OCEAN Open Cloud label. 13 projects obtained the Reviewed by OCEAN label 2014, and only 7 projects, including the CloudSpaces project, obtained the Quality Checked by OCEAN label 2014.&lt;/p&gt;
+&lt;p&gt;To discover the 20 open source cloud projects that received an OCEAN Open Cloud Label in October 2014, just download the &lt;a href=&quot;http://www.ocean-project.eu/bin/download/about/Collateral/OCD_Brochure.pdf&quot; target=&quot;_blank&quot;&gt;OCEAN Open Cloud Directory PDF brochure&lt;/a&gt;. Included links and QR codes will help you access to project details - technologies, licenses and classification.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Quality_Checked_RGB_132x124.png&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are glad to announce that the CloudSpaces project &lt;span style=&quot;line-height: 1.3em;&quot;&gt;has been evaluated by the &lt;a href=&quot;http://www.ocean-project.eu/&quot; target=&quot;_blank&quot;&gt;OCEAN project team&lt;/a&gt; and received the Quality Checked by OCEAN label.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;The OCEAN Open Cloud labels recognize innovative assets, new concepts, architecture documentation and/or re-usable open source cloud components described in the &lt;a href=&quot;http://www.ocdirectory.org/&quot; target=&quot;_blank&quot;&gt;Open Cloud Directory&lt;/a&gt; (OCD). You can check the CloudSpaces project as described in the Open Cloud Directory: &lt;a href=&quot;http://www.ocdirectory.org/organization/about/cloudspaces&quot; target=&quot;_blank&quot;&gt;http://www.ocdirectory.org/organization/about/cloudspaces&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Only 20 over 74 open cloud projects in the OCD received an OCEAN Open Cloud label. 13 projects obtained the Reviewed by OCEAN label 2014, and only 7 projects, including the CloudSpaces project, obtained the Quality Checked by OCEAN label 2014.&lt;/p&gt;
+&lt;p&gt;To discover the 20 open source cloud projects that received an OCEAN Open Cloud Label in October 2014, just download the &lt;a href=&quot;http://www.ocean-project.eu/bin/download/about/Collateral/OCD_Brochure.pdf&quot; target=&quot;_blank&quot;&gt;OCEAN Open Cloud Directory PDF brochure&lt;/a&gt;. Included links and QR codes will help you access to project details - technologies, licenses and classification.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Quality_Checked_RGB_132x124.png&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>Introducing StackSync to the RedIRIS community</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/91-introducing-stacksync-to-rediris"/>
+		<published>2014-01-30T09:04:06+00:00</published>
+		<updated>2014-01-30T09:04:06+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/91-introducing-stacksync-to-rediris</id>
+		<author>
+			<name>Ivan Utgé</name>
+			<email>ivan.utge@urv.cat</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;After presenting the StackSync project in the &lt;a href=&quot;http://www.rediris.es/jt/jt2013/&quot; target=&quot;_blank&quot;&gt;RedIRIS technical meeting&lt;/a&gt; in Madrid (October 2013), we received several feedback and comments from technicians in this community, that are interested in our solution. That’s why in order to spread the word especially to those organizations in the community that did not attend to the RedIRIS meeting, we have recently participated in an online video-session where we shared our project and experiences. In this video-session the audience had the chance to know other Personal Cloud projects in the community, concretely an Owncloud deployment at the Universidad de Sevilla.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;After presenting the StackSync project in the &lt;a href=&quot;http://www.rediris.es/jt/jt2013/&quot; target=&quot;_blank&quot;&gt;RedIRIS technical meeting&lt;/a&gt; in Madrid (October 2013), we received several feedback and comments from technicians in this community, that are interested in our solution. That’s why in order to spread the word especially to those organizations in the community that did not attend to the RedIRIS meeting, we have recently participated in an online video-session where we shared our project and experiences. In this video-session the audience had the chance to know other Personal Cloud projects in the community, concretely an Owncloud deployment at the Universidad de Sevilla.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>First year review of the Cloudspaces Project in Brussels</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/90-first-year-review"/>
+		<published>2014-01-03T07:46:00+00:00</published>
+		<updated>2014-01-03T07:46:00+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/90-first-year-review</id>
+		<author>
+			<name>Ivan Utgé</name>
+			<email>ivan.utge@urv.cat</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;After working hard on the Cloudspaces project during a whole year, it was time to explain our &lt;span style=&quot;line-height: 1.3em;&quot;&gt;developments and activities to the EU committee in Brussels. This was the first time that the &lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;project reviewers met with the Cloudspaces consortium partners, so it was very important let &lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;them know the project achievements in a pretty clear way in order to understand both the &lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;complexity of our tasks and the effort done in these twelve months.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;After working hard on the Cloudspaces project during a whole year, it was time to explain our &lt;span style=&quot;line-height: 1.3em;&quot;&gt;developments and activities to the EU committee in Brussels. This was the first time that the &lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;project reviewers met with the Cloudspaces consortium partners, so it was very important let &lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;them know the project achievements in a pretty clear way in order to understand both the &lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;complexity of our tasks and the effort done in these twelve months.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>StackSync website &amp; source code</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/89-stacksync-website-source-code"/>
+		<published>2013-12-03T14:12:00+00:00</published>
+		<updated>2013-12-03T14:12:00+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/89-stacksync-website-source-code</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Recently, we have published the &lt;strong&gt;community website&lt;/strong&gt; of StackSync (&lt;a href=&quot;http://stacksync.org&quot; target=&quot;_blank&quot;&gt;http://stacksync.org&lt;/a&gt;) where we plan to keep users informed about the progress we are making. You can find documentation about how it is built, how to deploy it, or download links to get StackSync for a variaty of platforms.&lt;/p&gt;
+&lt;p&gt;We have also uploaded the &lt;strong&gt;source code to GitHub&lt;/strong&gt; (&lt;a href=&quot;http://github.com/stacksync&quot; target=&quot;_blank&quot;&gt;http://github.com/stacksync&lt;/a&gt;) and, from this moment on, we will continue our development on GitHub. Feel free to contribute on any of the projects we are undertaking.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Recently, we have published the &lt;strong&gt;community website&lt;/strong&gt; of StackSync (&lt;a href=&quot;http://stacksync.org&quot; target=&quot;_blank&quot;&gt;http://stacksync.org&lt;/a&gt;) where we plan to keep users informed about the progress we are making. You can find documentation about how it is built, how to deploy it, or download links to get StackSync for a variaty of platforms.&lt;/p&gt;
+&lt;p&gt;We have also uploaded the &lt;strong&gt;source code to GitHub&lt;/strong&gt; (&lt;a href=&quot;http://github.com/stacksync&quot; target=&quot;_blank&quot;&gt;http://github.com/stacksync&lt;/a&gt;) and, from this moment on, we will continue our development on GitHub. Feel free to contribute on any of the projects we are undertaking.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>StackSync recent awards</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/78-stacksync-awards"/>
+		<published>2013-11-15T13:51:33+00:00</published>
+		<updated>2013-11-15T13:51:33+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/78-stacksync-awards</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are very proud to announce that StackSync has received a couple of awards from the local institutions in Tarragona, Spain.&lt;/p&gt;
+&lt;p&gt;First, we were awarded with the third prize at the &lt;strong&gt;X Premis ReusEmpresa&lt;/strong&gt;, with the goal of rewarding the top three business ideas from entrepreneurs in the province of Tarragona and encourage them to create a company in 2013. For more information about these awards, please, &lt;a href=&quot;http://www.redessa.com/cast/serveis3.php?subap=39&amp;amp;idap=31&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We also received a recognition prize at the first edition of the &lt;strong&gt;Premis Emprèn&lt;/strong&gt; offered by the &lt;strong&gt;Diputació de Tarragona &lt;/strong&gt;in the category&lt;strong&gt; Emprèn i Sorpren&lt;/strong&gt;, focused with innovative business projects, which offer a ideas from different points of view that the existing, being creative, resourceful and pioneer in the region. For more information about these awards, please, &lt;a href=&quot;http://www.diputaciodetarragona.cat/houdipu/web-dipu/totes_comarques/desen_local/empre.php&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are very proud to announce that StackSync has received a couple of awards from the local institutions in Tarragona, Spain.&lt;/p&gt;
+&lt;p&gt;First, we were awarded with the third prize at the &lt;strong&gt;X Premis ReusEmpresa&lt;/strong&gt;, with the goal of rewarding the top three business ideas from entrepreneurs in the province of Tarragona and encourage them to create a company in 2013. For more information about these awards, please, &lt;a href=&quot;http://www.redessa.com/cast/serveis3.php?subap=39&amp;amp;idap=31&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We also received a recognition prize at the first edition of the &lt;strong&gt;Premis Emprèn&lt;/strong&gt; offered by the &lt;strong&gt;Diputació de Tarragona &lt;/strong&gt;in the category&lt;strong&gt; Emprèn i Sorpren&lt;/strong&gt;, focused with innovative business projects, which offer a ideas from different points of view that the existing, being creative, resourceful and pioneer in the region. For more information about these awards, please, &lt;a href=&quot;http://www.diputaciodetarragona.cat/houdipu/web-dipu/totes_comarques/desen_local/empre.php&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>Stacksync Beta</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/77-stacksync-beta"/>
+		<published>2013-11-15T13:50:16+00:00</published>
+		<updated>2013-11-15T13:50:16+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/77-stacksync-beta</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are happy to announce that Stacksync has finally has reached its Beta phase!&lt;/p&gt;
+&lt;p&gt;We have created a website for users willing to try StackSync for free. At this moment, we have desktop clients for Windows 7 and Linux, as well as a mobile client for Android. We are working hard to release clients for the rest of operating systems.&lt;/p&gt;
+&lt;p&gt;We would be very proud if you decided to give it a try and let us know your experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.stacksync.com/&quot;&gt;&lt;strong&gt;http://www.stacksync.com/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are happy to announce that Stacksync has finally has reached its Beta phase!&lt;/p&gt;
+&lt;p&gt;We have created a website for users willing to try StackSync for free. At this moment, we have desktop clients for Windows 7 and Linux, as well as a mobile client for Android. We are working hard to release clients for the rest of operating systems.&lt;/p&gt;
+&lt;p&gt;We would be very proud if you decided to give it a try and let us know your experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.stacksync.com/&quot;&gt;&lt;strong&gt;http://www.stacksync.com/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>Cloud Interoperability Week</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/79-cloud-interop-week"/>
+		<published>2013-09-20T07:20:00+00:00</published>
+		<updated>2013-09-20T07:20:00+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/79-cloud-interop-week</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;On the last week the URV presented the CloudSpaces project to the attendants of the &lt;a href=&quot;http://www.cloudplugfest.org/cloud-interoperability-week&quot; target=&quot;_blank&quot;&gt;Cloud Inteoperability Week&lt;/a&gt; at the &lt;a href=&quot;http://tf2013.egi.eu/&quot; target=&quot;_blank&quot;&gt;EGI Technical Forum&lt;/a&gt; that took place in Madrid, Spain from 16 to 20 September 2013.&lt;/p&gt;
+&lt;p&gt;The event was hosted by &lt;a href=&quot;http://www.egi.eu/&quot; target=&quot;_blank&quot;&gt;EGI.eu&lt;/a&gt; and &lt;a href=&quot;http://www.ibergrid.eu/&quot; target=&quot;_blank&quot;&gt;IBERGRID&lt;/a&gt;, a partnership between the Spanish and Portuguese National Grid Initiatives that represents the Iberian Peninsula in EGI.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;The Cloud Interoperability Week and aimed to set out short and medium term objectives towards the longer-term goal of producing an ecosystem of interoperable cloud solutions.The event brought together a variety of diverse communities around the need to co-operate to utilise, standardise and enable the interworking of different approaches. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;On the last week the URV presented the CloudSpaces project to the attendants of the &lt;a href=&quot;http://www.cloudplugfest.org/cloud-interoperability-week&quot; target=&quot;_blank&quot;&gt;Cloud Inteoperability Week&lt;/a&gt; at the &lt;a href=&quot;http://tf2013.egi.eu/&quot; target=&quot;_blank&quot;&gt;EGI Technical Forum&lt;/a&gt; that took place in Madrid, Spain from 16 to 20 September 2013.&lt;/p&gt;
+&lt;p&gt;The event was hosted by &lt;a href=&quot;http://www.egi.eu/&quot; target=&quot;_blank&quot;&gt;EGI.eu&lt;/a&gt; and &lt;a href=&quot;http://www.ibergrid.eu/&quot; target=&quot;_blank&quot;&gt;IBERGRID&lt;/a&gt;, a partnership between the Spanish and Portuguese National Grid Initiatives that represents the Iberian Peninsula in EGI.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;The Cloud Interoperability Week and aimed to set out short and medium term objectives towards the longer-term goal of producing an ecosystem of interoperable cloud solutions.The event brought together a variety of diverse communities around the need to co-operate to utilise, standardise and enable the interworking of different approaches. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>Keynote Speech at IEEE P2P'13</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/74-keynote-speech-p2p13"/>
+		<published>2013-09-16T12:42:00+00:00</published>
+		<updated>2013-09-16T12:42:00+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/74-keynote-speech-p2p13</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Pedro García-López, from the Universitat Rovira i Virgili, presented a keynote speech at IEEE P2P'13!&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Abstract:&lt;/span&gt; &lt;span style=&quot;line-height: 1.3em;&quot;&gt;There is an ongoing battle between the forces of centralization and decentralization in several human fields (energy, economics, politics, …). In computing, these tidal waves of hype have periodically raised some boats while sunk some others. In particular, P2P rode the hype wave the past decade but now seems an outdated technology. Cloud Computing and Big Data are the current buzzwords where centralization is again the dominant trend. But unlike other old trendy topics, the P2P community captured the essence of decentralization. And decentralization is here to stay, … and come back.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Pedro García-López, from the Universitat Rovira i Virgili, presented a keynote speech at IEEE P2P'13!&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Abstract:&lt;/span&gt; &lt;span style=&quot;line-height: 1.3em;&quot;&gt;There is an ongoing battle between the forces of centralization and decentralization in several human fields (energy, economics, politics, …). In computing, these tidal waves of hype have periodically raised some boats while sunk some others. In particular, P2P rode the hype wave the past decade but now seems an outdated technology. Cloud Computing and Big Data are the current buzzwords where centralization is again the dominant trend. But unlike other old trendy topics, the P2P community captured the essence of decentralization. And decentralization is here to stay, … and come back.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+	<entry>
+		<title>Personal Cloud Measurement Dataset</title>
+		<link rel="alternate" type="text/html" href="http://127.0.0.1/cloudspaces/news/76-personal-cloud-dataset"/>
+		<published>2013-07-15T12:48:00+00:00</published>
+		<updated>2013-07-15T12:48:00+00:00</updated>
+		<id>http://127.0.0.1/cloudspaces/news/76-personal-cloud-dataset</id>
+		<author>
+			<name>Adrian Moreno</name>
+			<email>adrifx@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are happy to announce that we provide a &lt;strong&gt;freely available dataset to the research community&lt;/strong&gt;. The dataset consists of an active measurement of three major Personal Clouds (Box, DropBox and SugarSync) during more than two months.&lt;/p&gt;
+&lt;p&gt;All the measurement details as well as the files can be found at: &lt;a href=&quot;http://ast-deim.urv.cat/trac/pc_measurement/&quot;&gt;http://ast-deim.urv.cat/trac/pc_measurement/&lt;/a&gt;. You may also find interesting the analysis entitled &quot;&lt;a href=&quot;http://ants.etse.urv.es/web/administrator/components/com_jresearch/files/publications/Actively%20Measuring%20Personal%20Cloud%20Storage.pdf&quot;&gt;Actively Measuring Personal Cloud Storage&lt;/a&gt;&quot; published at IEEE Cloud'13. Enjoy!! :)&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;We are happy to announce that we provide a &lt;strong&gt;freely available dataset to the research community&lt;/strong&gt;. The dataset consists of an active measurement of three major Personal Clouds (Box, DropBox and SugarSync) during more than two months.&lt;/p&gt;
+&lt;p&gt;All the measurement details as well as the files can be found at: &lt;a href=&quot;http://ast-deim.urv.cat/trac/pc_measurement/&quot;&gt;http://ast-deim.urv.cat/trac/pc_measurement/&lt;/a&gt;. You may also find interesting the analysis entitled &quot;&lt;a href=&quot;http://ants.etse.urv.es/web/administrator/components/com_jresearch/files/publications/Actively%20Measuring%20Personal%20Cloud%20Storage.pdf&quot;&gt;Actively Measuring Personal Cloud Storage&lt;/a&gt;&quot; published at IEEE Cloud'13. Enjoy!! :)&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Blog entry" />
+	</entry>
+</feed>

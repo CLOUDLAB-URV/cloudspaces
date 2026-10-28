@@ -1,0 +1,13 @@
+# @version		$Id: htaccess.txt 1606 2012-05-22 00:01:32Z johanjanssens $
+# @category	    DOCman
+# @package		DOCman15
+# @copyright	Copyright (C) 2003 - 2012 Johan Janssens. All rights reserved.
+# @license	    This file can not be redistributed without the written consent of the 
+#				original copyright holder. This file is not licensed under the GPL. 
+# @link     	http://www.joomladocman.org
+
+
+# Note: Having a .htaccess prevents users from directly
+# accessing the files in your data folder
+
+deny from all
